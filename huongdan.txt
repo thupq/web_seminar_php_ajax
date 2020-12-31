@@ -1,0 +1,7 @@
+1.truy cập đường dẫn http://localhost:8088/BtlFinal.web/admin để truy cập trang quản trị viên
+2.đăng nhập bằng các tài khoản sau để vào được trang quản trị 
+username: thupq _ password:12345
+username: bapngo _ password:4321
+username: haian_ password:haian
+
+
